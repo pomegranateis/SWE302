@@ -2,7 +2,8 @@
 
 This document summarizes the automated test implementation for the Kahoot Clone project.
 
-**Project Link:** [reactquiz](https://github.com/pomegranateis/reactquiz)
+**Repository Link:** [reactquiz](https://github.com/pomegranateis/reactquiz)
+
 ## Test Files Created
 
 1. **quiz-flow.spec.ts** - Core quiz functionality (TC001-TC005)
