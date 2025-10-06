@@ -92,21 +92,7 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: mvn sonar:sonar
 ```
-
-## Code Quality Results
-
-### Quality Gate Status: PASSED
-
-| Metric | Result | Grade | Description |
-|--------|--------|-------|-------------|
-| **Security** | 0 issues | A | No security vulnerabilities detected |
-| **Reliability** | 0 issues | A | No bugs or reliability issues found |
-| **Maintainability** | 3 issues | A | Minor code smells identified |
-| **Coverage** | 93.3% | | Excellent test coverage |
-| **Duplications** | 0.0% | | No code duplication detected |
-| **Lines of Code** | 142 | - | Total codebase size |
-
-### Detailed Analysis
+g### Detailed Analysis
 
 #### 1. Security Analysis
 - **Status**: Clean
