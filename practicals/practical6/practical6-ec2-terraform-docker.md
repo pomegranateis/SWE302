@@ -4,7 +4,8 @@
 **Course:** Cloud Computing / DevOps  
 **Practical:** EC2 Deployment with Terraform, Docker, and LocalStack
 
-Repository LINK:
+**Note**: Repository is too large to upload to GitHub.
+
 ## Executive Summary
 
 This report documents the successful deployment of a Next.js application on AWS EC2 using Infrastructure as Code (Terraform) with LocalStack for local development, and Docker for containerization. The practical demonstrated the complete DevOps pipeline from infrastructure provisioning to application deployment in a containerized environment.
