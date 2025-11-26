@@ -1,6 +1,6 @@
 # Practical 6 Example and NextJS-app - Git-based Deployment Workflow
 
-**Repository Link:** [pactical6-nextjs-app](https://github.com/pomegranateis/practical6-nextjs-app)
+**Repository Link:** [practical6-nextjs-app](https://github.com/pomegranateis/practical6-nextjs-app)
 
 ## Overview
 
